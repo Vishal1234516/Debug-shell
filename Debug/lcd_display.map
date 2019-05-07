@@ -1,0 +1,825 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (exit)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o (memset)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o) (_exit)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o) (_kill)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o) (_has_ext_exit_extended)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-errno.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o) (__errno)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o) (__sinit)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fwalk.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o) (_fwalk)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o) (_malloc_r)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mlock.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-sbrkr.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o) (__sread)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strlen.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o) (strlen)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-writer.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o) (_write_r)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-closer.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o) (_close_r)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fclose.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o) (_fclose_r)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fflush.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fclose.o) (__sflush_r)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-freer.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o) (_free_r)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lseekr.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o) (_lseek_r)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-readr.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o) (_read_r)
+/home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-reent.o)
+                              /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-sbrkr.o) (errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+errno               0x4               /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-reent.o)
+__lock___env_recursive_mutex
+                    0x1               /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+readback            0x4               ./main.o
+__lock___dd_hash_mutex
+                    0x1               /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+SRAM             0x0000000020000000 0x0000000000008000 xw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+LOAD ./main.o
+LOAD ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000000                PROVIDE (_intvecs_base_address, 0x0)
+
+.intvecs        0x0000000000000000      0x26c
+ *(.intvecs)
+ .intvecs       0x0000000000000000      0x26c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000000                g_pfnVectors
+                0x0000000020000000                PROVIDE (_vtable_base_address, 0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x0000000000000280     0x2504
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x0000000000000280        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .text          0x0000000000000280       0x40 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x00000000000002c0       0x74 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00000000000002c0                _mainCRTStartup
+                0x00000000000002c0                _start
+ .text          0x0000000000000334        0x0 ./main.o
+ .text          0x0000000000000334        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-errno.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fwalk.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mlock.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-sbrkr.o)
+ .text          0x0000000000000334        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+ *fill*         0x0000000000000334        0xc 
+ .text          0x0000000000000340       0xdc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strlen.o)
+                0x0000000000000340                strlen
+ .text          0x000000000000041c        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-writer.o)
+ .text          0x000000000000041c        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-closer.o)
+ .text          0x000000000000041c        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fclose.o)
+ .text          0x000000000000041c        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fflush.o)
+ .text          0x000000000000041c        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-freer.o)
+ .text          0x000000000000041c        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lseekr.o)
+ .text          0x000000000000041c        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-readr.o)
+ .text          0x000000000000041c        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-reent.o)
+ .text          0x000000000000041c        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .text          0x000000000000041c        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.text.*)
+ .text.GPIOPortC_Init
+                0x000000000000041c       0xfc ./main.o
+                0x000000000000041c                GPIOPortC_Init
+ .text.GPIOPortC_Handler
+                0x0000000000000518       0x28 ./main.o
+                0x0000000000000518                GPIOPortC_Handler
+ .text.main     0x0000000000000540        0xe ./main.o
+                0x0000000000000540                main
+ .text.DisableInterrupts
+                0x000000000000054e       0x10 ./main.o
+                0x000000000000054e                DisableInterrupts
+ .text.EnableInterrupts
+                0x000000000000055e       0x10 ./main.o
+                0x000000000000055e                EnableInterrupts
+ *fill*         0x000000000000056e        0x2 
+ .text.WaitForInterrupt
+                0x0000000000000570      0x114 ./main.o
+                0x0000000000000570                WaitForInterrupt
+ .text.delay    0x0000000000000684       0x4c ./main.o
+                0x0000000000000684                delay
+ .text.map      0x00000000000006d0       0x7a ./main.o
+                0x00000000000006d0                map
+ *fill*         0x000000000000074a        0x2 
+ .text.unitdigit
+                0x000000000000074c       0xb4 ./main.o
+                0x000000000000074c                unitdigit
+ .text.decdigit
+                0x0000000000000800       0xb0 ./main.o
+                0x0000000000000800                decdigit
+ .text.hundigit
+                0x00000000000008b0       0xb0 ./main.o
+                0x00000000000008b0                hundigit
+ .text.thousdigit
+                0x0000000000000960       0xac ./main.o
+                0x0000000000000960                thousdigit
+ .text.refreash
+                0x0000000000000a0c       0xb4 ./main.o
+                0x0000000000000a0c                refreash
+ .text.delay_ref
+                0x0000000000000ac0       0x36 ./main.o
+                0x0000000000000ac0                delay_ref
+ *fill*         0x0000000000000af6        0x2 
+ .text.keydetected
+                0x0000000000000af8       0x94 ./main.o
+                0x0000000000000af8                keydetected
+ .text.delayMs  0x0000000000000b8c       0x3e ./main.o
+                0x0000000000000b8c                delayMs
+ *fill*         0x0000000000000bca        0x2 
+ .text.ResetISR
+                0x0000000000000bcc       0x6c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x0000000000000bcc                ResetISR
+ .text.NmiSR    0x0000000000000c38        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.FaultISR
+                0x0000000000000c3e        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.IntDefaultHandler
+                0x0000000000000c44        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ *fill*         0x0000000000000c4a        0x2 
+ .text.exit     0x0000000000000c4c       0x20 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+                0x0000000000000c4c                exit
+ .text.__libc_init_array
+                0x0000000000000c6c       0x48 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+                0x0000000000000c6c                __libc_init_array
+ .text.memset   0x0000000000000cb4       0x94 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+                0x0000000000000cb4                memset
+ .text.startup.register_fini
+                0x0000000000000d48       0x14 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000d5c       0xe8 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000000000d5c                __call_exitprocs
+ .text.atexit   0x0000000000000e44        0xc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+                0x0000000000000e44                atexit
+ .text.__libc_fini_array
+                0x0000000000000e50       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+                0x0000000000000e50                __libc_fini_array
+ .text.__retarget_lock_init
+                0x0000000000000e84        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000000e84                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x0000000000000e88        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000000e88                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x0000000000000e8c        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000000e8c                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x0000000000000e90        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000000e90                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x0000000000000e94        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000000e94                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000e98        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000000e98                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x0000000000000e9c        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000000e9c                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000ea0        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000000ea0                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x0000000000000ea4        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000000ea4                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x0000000000000ea8        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000000000ea8                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x0000000000000eac       0xc0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+                0x0000000000000eac                __register_exitproc
+ .text._exit    0x0000000000000f6c        0x8 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+                0x0000000000000f6c                _exit
+ .text._kill    0x0000000000000f74       0x38 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+                0x0000000000000f74                _kill
+ .text.findslot
+                0x0000000000000fac       0x38 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .text.checkerror.part.0
+                0x0000000000000fe4       0x1c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .text._swiread
+                0x0000000000001000       0x28 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001000                _swiread
+ .text._read    0x0000000000001028       0x50 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001028                _read
+ .text._swilseek
+                0x0000000000001078       0x9c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001078                _swilseek
+ .text._lseek   0x0000000000001114        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001114                _lseek
+ .text._swiwrite
+                0x0000000000001118       0x28 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001118                _swiwrite
+ .text._write   0x0000000000001140       0x74 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001140                _write
+ .text._swiclose
+                0x00000000000011b4       0x28 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x00000000000011b4                _swiclose
+ .text._close   0x00000000000011dc       0x6c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x00000000000011dc                _close
+ .text._getpid  0x0000000000001248        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001248                _getpid
+ .text._sbrk    0x000000000000124c       0x4c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x000000000000124c                _sbrk
+ .text._swistat
+                0x0000000000001298       0x48 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001298                _swistat
+ .text._fstat   0x00000000000012e0       0x1c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x00000000000012e0                _fstat
+ .text._stat    0x00000000000012fc       0x3c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x00000000000012fc                _stat
+ .text._swiopen
+                0x0000000000001338       0xd8 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001338                _swiopen
+ .text._open    0x0000000000001410       0x14 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001410                _open
+ .text._get_semihosting_exts
+                0x0000000000001424       0xd0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001424                _get_semihosting_exts
+ .text.initialise_semihosting_exts
+                0x00000000000014f4       0x3c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .text._has_ext_exit_extended
+                0x0000000000001530       0x18 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001530                _has_ext_exit_extended
+ .text._has_ext_stdout_stderr
+                0x0000000000001548       0x18 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001548                _has_ext_stdout_stderr
+ .text.initialise_monitor_handles
+                0x0000000000001560       0xfc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001560                initialise_monitor_handles
+ .text._link    0x000000000000165c       0x10 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x000000000000165c                _link
+ .text._unlink  0x000000000000166c       0x3c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x000000000000166c                _unlink
+ .text._gettimeofday
+                0x00000000000016a8       0x2c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x00000000000016a8                _gettimeofday
+ .text._clock   0x00000000000016d4       0x14 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x00000000000016d4                _clock
+ .text._times   0x00000000000016e8       0x20 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x00000000000016e8                _times
+ .text._isatty  0x0000000000001708       0x3c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001708                _isatty
+ .text._system  0x0000000000001744       0x44 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001744                _system
+ .text._rename  0x0000000000001788       0x3c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x0000000000001788                _rename
+ .text.__errno  0x00000000000017c4        0xc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-errno.o)
+                0x00000000000017c4                __errno
+ .text.std      0x00000000000017d0       0x50 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000000001820        0xc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x0000000000001820                _cleanup_r
+ .text.__fp_lock
+                0x000000000000182c       0x1c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000001848       0x1c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000000001864       0x30 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x0000000000001864                __sfmoreglue
+ .text._cleanup
+                0x0000000000001894       0x14 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x0000000000001894                _cleanup
+ .text.__sinit  0x00000000000018a8       0x58 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x00000000000018a8                __sinit
+ .text.__sfp    0x0000000000001900       0xa4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x0000000000001900                __sfp
+ .text.__sfp_lock_acquire
+                0x00000000000019a4        0xc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x00000000000019a4                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x00000000000019b0        0xc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x00000000000019b0                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x00000000000019bc        0xc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x00000000000019bc                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x00000000000019c8        0xc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x00000000000019c8                __sinit_lock_release
+ .text.__fp_lock_all
+                0x00000000000019d4       0x24 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x00000000000019d4                __fp_lock_all
+ .text.__fp_unlock_all
+                0x00000000000019f8       0x24 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+                0x00000000000019f8                __fp_unlock_all
+ .text._fwalk   0x0000000000001a1c       0x4c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fwalk.o)
+                0x0000000000001a1c                _fwalk
+ .text._fwalk_reent
+                0x0000000000001a68       0x54 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fwalk.o)
+                0x0000000000001a68                _fwalk_reent
+ .text._malloc_r
+                0x0000000000001abc      0x548 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000000001abc                _malloc_r
+ .text.__malloc_lock
+                0x0000000000002004        0xc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mlock.o)
+                0x0000000000002004                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000000002010        0xc /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mlock.o)
+                0x0000000000002010                __malloc_unlock
+ .text._sbrk_r  0x000000000000201c       0x24 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-sbrkr.o)
+                0x000000000000201c                _sbrk_r
+ .text.__sread  0x0000000000002040       0x24 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+                0x0000000000002040                __sread
+ .text.__seofread
+                0x0000000000002064        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+                0x0000000000002064                __seofread
+ .text.__swrite
+                0x0000000000002068       0x3c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+                0x0000000000002068                __swrite
+ .text.__sseek  0x00000000000020a4       0x20 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+                0x00000000000020a4                __sseek
+ .text.__sclose
+                0x00000000000020c4        0x8 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+                0x00000000000020c4                __sclose
+ .text._write_r
+                0x00000000000020cc       0x2c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-writer.o)
+                0x00000000000020cc                _write_r
+ .text._close_r
+                0x00000000000020f8       0x24 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-closer.o)
+                0x00000000000020f8                _close_r
+ .text._fclose_r
+                0x000000000000211c       0xd0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fclose.o)
+                0x000000000000211c                _fclose_r
+ .text.fclose   0x00000000000021ec       0x10 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fclose.o)
+                0x00000000000021ec                fclose
+ .text.__sflush_r
+                0x00000000000021fc      0x154 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fflush.o)
+                0x00000000000021fc                __sflush_r
+ .text._fflush_r
+                0x0000000000002350       0x5c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fflush.o)
+                0x0000000000002350                _fflush_r
+ .text.fflush   0x00000000000023ac       0x24 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fflush.o)
+                0x00000000000023ac                fflush
+ .text._malloc_trim_r
+                0x00000000000023d0       0xa0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-freer.o)
+                0x00000000000023d0                _malloc_trim_r
+ .text._free_r  0x0000000000002470      0x1e8 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-freer.o)
+                0x0000000000002470                _free_r
+ .text._lseek_r
+                0x0000000000002658       0x2c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lseekr.o)
+                0x0000000000002658                _lseek_r
+ .text._read_r  0x0000000000002684       0x2c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-readr.o)
+                0x0000000000002684                _read_r
+ .text.cleanup_glue
+                0x00000000000026b0       0x28 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-reent.o)
+                0x00000000000026b0                cleanup_glue
+ .text._reclaim_reent
+                0x00000000000026d8       0x88 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-reent.o)
+                0x00000000000026d8                _reclaim_reent
+                0x0000000000002760                . = ALIGN (0x4)
+ *(.ctors)
+                0x0000000000002760                . = ALIGN (0x4)
+ *(.dtors)
+                0x0000000000002760                . = ALIGN (0x4)
+                0x0000000000002760                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x0000000000002760        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .init_array.00000
+                0x0000000000002764        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000000002768                __init_array_end = .
+ *(.init)
+ .init          0x0000000000002768        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000000000002768                _init
+ .init          0x000000000000276c        0x8 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.fini*)
+ .fini          0x0000000000002774        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x0000000000002774                _fini
+ .fini_array    0x0000000000002778        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .fini          0x000000000000277c        0x8 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                [!provide]                        PROVIDE (__etext, .)
+                [!provide]                        PROVIDE (_etext, .)
+                [!provide]                        PROVIDE (etext, .)
+
+.glue_7         0x0000000000002784        0x0
+ .glue_7        0x0000000000002784        0x0 linker stubs
+
+.glue_7t        0x0000000000002784        0x0
+ .glue_7t       0x0000000000002784        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000002784        0x0
+ .vfp11_veneer  0x0000000000002784        0x0 linker stubs
+
+.v4_bx          0x0000000000002784        0x0
+ .v4_bx         0x0000000000002784        0x0 linker stubs
+
+.iplt           0x0000000000002784        0x0
+ .iplt          0x0000000000002784        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.rodata         0x0000000000002784       0x20
+ *(.rodata)
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x0000000000002784        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                0x0000000000002784                _global_impure_ptr
+ .rodata._get_semihosting_exts.str1.4
+                0x0000000000002788       0x16 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ *fill*         0x000000000000279e        0x2 
+ .rodata.initialise_monitor_handles.str1.4
+                0x00000000000027a0        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+
+.eh_frame       0x00000000000027a4        0x4
+ .eh_frame      0x00000000000027a4        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .eh_frame      0x00000000000027a4        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+
+.data           0x0000000020000000      0x858 load address 0x00000000000027a8
+                0x00000000000027a8                __data_load__ = LOADADDR (.data)
+                0x0000000020000000                __data_start__ = .
+ *(.data)
+ .data          0x0000000020000000        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .data          0x0000000020000000        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x0000000020000000                __dso_handle
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .data          0x0000000020000004        0x0 ./main.o
+ .data          0x0000000020000004        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-errno.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fwalk.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mlock.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strlen.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-writer.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-closer.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fclose.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fflush.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-freer.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lseekr.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-readr.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-reent.o)
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .data          0x0000000020000004        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.data*)
+ .data.del      0x0000000020000004        0x4 ./main.o
+                0x0000000020000004                del
+ .data._impure_ptr
+                0x0000000020000008        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+                0x0000000020000008                _impure_ptr
+ *fill*         0x000000002000000c        0x4 
+ .data.impure_data
+                0x0000000020000010      0x428 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000438        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+                0x0000000020000438                __atexit_recursive_mutex
+ .data.__heap_limit
+                0x000000002000043c        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+                0x000000002000043c                __heap_limit
+ .data.supports_ext_exit_extended
+                0x0000000020000440        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .data.supports_ext_stdout_stderr
+                0x0000000020000444        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .data.__malloc_av_
+                0x0000000020000448      0x408 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000020000448                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x0000000020000850        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000020000850                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x0000000020000854        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000020000854                __malloc_trim_threshold
+                0x0000000020000858                . = ALIGN (0x4)
+                0x0000000020000858                __data_end__ = .
+
+.igot.plt       0x0000000020000858        0x0 load address 0x0000000000003000
+ .igot.plt      0x0000000020000858        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.ARM.exidx      0x0000000000003000        0x8
+                0x0000000000003000                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000003000        0x8 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x0000000000003008                __exidx_end = .
+
+.ARM.extab      0x0000000000003008        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000000003008        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+
+.rel.dyn        0x0000000000003008        0x0
+ .rel.iplt      0x0000000000003008        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.bss            0x0000000020000858      0x32c
+                0x0000000020000858                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x0000000020000858        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .bss           0x0000000020000858       0x1c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .bss           0x0000000020000874        0x0 ./main.o
+ .bss           0x0000000020000874        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-errno.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fwalk.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mlock.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strlen.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-writer.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-closer.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fclose.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fflush.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-freer.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lseekr.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-readr.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-reent.o)
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .bss           0x0000000020000874        0x0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ *(.bss.*)
+ .bss.pui32Stack
+                0x0000000020000874      0x200 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss.heap_end.7534
+                0x0000000020000a74        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stderr
+                0x0000000020000a78        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stdin
+                0x0000000020000a7c        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stdout
+                0x0000000020000a80        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .bss.openfiles
+                0x0000000020000a84       0xa0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .bss.__malloc_current_mallinfo
+                0x0000000020000b24       0x28 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000020000b24                __malloc_current_mallinfo
+ .bss.__malloc_max_sbrked_mem
+                0x0000000020000b4c        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000020000b4c                __malloc_max_sbrked_mem
+ .bss.__malloc_max_total_mem
+                0x0000000020000b50        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000020000b50                __malloc_max_total_mem
+ .bss.__malloc_top_pad
+                0x0000000020000b54        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000020000b54                __malloc_top_pad
+ *(COMMON)
+ COMMON         0x0000000020000b58        0x4 ./main.o
+                0x0000000020000b58                readback
+ COMMON         0x0000000020000b5c       0x21 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+                0x0000000020000b5c                __lock___atexit_recursive_mutex
+                0x0000000020000b60                __lock___arc4random_mutex
+                0x0000000020000b64                __lock___env_recursive_mutex
+                0x0000000020000b68                __lock___sinit_recursive_mutex
+                0x0000000020000b6c                __lock___malloc_recursive_mutex
+                0x0000000020000b70                __lock___at_quick_exit_mutex
+                0x0000000020000b74                __lock___dd_hash_mutex
+                0x0000000020000b78                __lock___tz_mutex
+                0x0000000020000b7c                __lock___sfp_recursive_mutex
+ *fill*         0x0000000020000b7d        0x3 
+ COMMON         0x0000000020000b80        0x4 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-reent.o)
+                0x0000000020000b80                errno
+                0x0000000020000b84                . = ALIGN (0x4)
+                0x0000000020000b84                __bss_end__ = .
+
+.heap           0x0000000020000b84        0x0
+                0x0000000020000b84                __heap_start__ = .
+                0x0000000020000b84                end = __heap_start__
+                0x0000000020000b84                _end = end
+                0x0000000020000b84                __end = end
+ *(.heap)
+                0x0000000020000b84                __heap_end__ = .
+                0x0000000020000b84                __HeapLimit = __heap_end__
+
+.stack          0x0000000020000b88        0x0
+                0x0000000020000b88                _stack = .
+                0x0000000020000b88                __stack = .
+ *(.stack)
+START GROUP
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+END GROUP
+START GROUP
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+END GROUP
+START GROUP
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a
+END GROUP
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+LOAD /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+OUTPUT(lcd_display.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ .ARM.attributes
+                0x0000000000000000       0x22 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000056       0x20 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000076       0x39 ./main.o
+ .ARM.attributes
+                0x00000000000000af       0x39 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .ARM.attributes
+                0x00000000000000e8       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000000000011c       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000150       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000184       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000001b8       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000001ec       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000220       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000254       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000288       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000002bc       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+ .ARM.attributes
+                0x00000000000002f0       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+ .ARM.attributes
+                0x0000000000000324       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .ARM.attributes
+                0x0000000000000358       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000000000000038c       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x00000000000003c0       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000000000003f4       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000000000000428       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000000000000045c       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000490       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000000000004c4       0x20 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000000004e4       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000518       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x000000000000054c       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x0000000000000580       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000000000005b4       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000000000005e8       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x000000000000061c       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000000000000650       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000684       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x00000000000006b8       0x22 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+
+.comment        0x0000000000000000       0x7e
+ .comment       0x0000000000000000       0x7e ./main.o
+                                         0x7f (size before relaxing)
+ .comment       0x000000000000007e       0x7f ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_info     0x0000000000000000      0xdde
+ .debug_info    0x0000000000000000      0xc51 ./main.o
+ .debug_info    0x0000000000000c51      0x18d ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_abbrev   0x0000000000000000      0x3a7
+ .debug_abbrev  0x0000000000000000      0x2dd ./main.o
+ .debug_abbrev  0x00000000000002dd       0xca ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_aranges  0x0000000000000000       0xd0
+ .debug_aranges
+                0x0000000000000000       0x98 ./main.o
+ .debug_aranges
+                0x0000000000000098       0x38 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_ranges   0x0000000000000000       0xb0
+ .debug_ranges  0x0000000000000000       0x88 ./main.o
+ .debug_ranges  0x0000000000000088       0x28 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_line     0x0000000000000000      0x51e
+ .debug_line    0x0000000000000000      0x3a9 ./main.o
+ .debug_line    0x00000000000003a9      0x175 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_str      0x0000000000000000      0x6db
+ .debug_str     0x0000000000000000      0x620 ./main.o
+                                        0x68c (size before relaxing)
+ .debug_str     0x0000000000000620       0xbb ./tm4c123gh6pm_startup_ccs_gcc.o
+                                        0x26c (size before relaxing)
+
+.debug_frame    0x0000000000000000      0xe68
+ .debug_frame   0x0000000000000000      0x240 ./main.o
+ .debug_frame   0x0000000000000240       0x7c ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_frame   0x00000000000002bc       0x28 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000000002e4       0x2c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000000310       0x38 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000348       0x5c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000003a4       0x20 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000000003c4       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000000003f8       0xb0 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lock.o)
+ .debug_frame   0x00000000000004a8       0x34 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000000004dc       0x20 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_exit.o)
+ .debug_frame   0x00000000000004fc       0x30 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-_kill.o)
+ .debug_frame   0x000000000000052c      0x418 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/librdimon.a(rdimon-syscalls.o)
+ .debug_frame   0x0000000000000944       0x20 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000964      0x148 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000aac       0x54 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000b00       0x54 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000b54       0x30 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000b84       0x2c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000bb0       0x88 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000c38       0x2c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000c64       0x2c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000c90       0x3c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fclose.o)
+ .debug_frame   0x0000000000000ccc       0x5c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000d28       0x80 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000da8       0x2c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000dd4       0x2c /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000e00       0x68 /home/vishal/ti/ccsv8/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major/bin/../lib/gcc/arm-none-eabi/7.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-reent.o)
